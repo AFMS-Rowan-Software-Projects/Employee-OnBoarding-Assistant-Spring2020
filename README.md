@@ -1,0 +1,2 @@
+# Employee-OnBoarding-Assistant-Spring2020
+The team will develop a web application to assist a new ASRC Federal Mission Solutions employee with the on-boarding process. Employees are required to complete various forms, take a variety of training courses, obtain computer accounts for various systems, etc. The developed application will allow an employee to view their required on-boarding steps, update their accomplishments, and obtain a dashboard view of their status and progress.
